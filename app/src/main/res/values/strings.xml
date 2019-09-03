@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="tab1">Home</string>
+    <string name="tab2">Points</string>
+    <string name="tab3">Rewards</string>
+    <string name="tab4">Store</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
